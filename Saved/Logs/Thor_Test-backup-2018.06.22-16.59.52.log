@@ -1,0 +1,787 @@
+﻿Log file open, 06/22/18 16:55:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Thor_Test
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1213541332) SRandInit(1213541332).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416391
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.909s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am BEN-DESKTOP (192.168.2.106:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.22-15.55.19:370][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.22-15.55.19:370][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.22-15.55.19:390][  0]LogInit: Computer: BEN-DESKTOP
+[2018.06.22-15.55.19:390][  0]LogInit: User: Ben
+[2018.06.22-15.55.19:390][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.06.22-15.55.19:390][  0]LogInit: High frequency timer resolution =3.222659 MHz
+[2018.06.22-15.55.19:390][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.22-15.55.19:390][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.22-15.55.19:390][  0]LogMemory: Process Physical Memory: 275.58 MB used, 275.58 MB peak
+[2018.06.22-15.55.19:390][  0]LogMemory: Process Virtual Memory: 271.61 MB used, 271.61 MB peak
+[2018.06.22-15.55.19:390][  0]LogMemory: Physical Memory: 2792.14 MB used,  5294.96 MB free, 8087.10 MB total
+[2018.06.22-15.55.19:390][  0]LogMemory: Virtual Memory: 4809.99 MB used,  5294.96 MB free, 134217728.00 MB total
+[2018.06.22-15.55.19:481][  0]LogInit: Using OS detected language (en-US).
+[2018.06.22-15.55.19:481][  0]LogInit: Using OS detected locale (en-GB).
+[2018.06.22-15.55.19:531][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.22-15.55.19:973][  0]LogStreaming: Display: Took  0.492s to EndInitTextLocalization.
+[2018.06.22-15.55.19:973][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.22-15.55.20:028][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.22-15.55.20:028][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.22-15.55.21:387][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.22-15.55.21:447][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.06.22-15.55.21:447][  0]LogD3D11RHI:       8079/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.22-15.55.21:455][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.22-15.55.21:455][  0]LogD3D11RHI:       0/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.22-15.55.21:455][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.22-15.55.21:460][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.22-15.55.21:460][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.22-15.55.21:460][  0]LogWindows: EnumDisplayDevices:
+[2018.06.22-15.55.21:460][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.06.22-15.55.21:460][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.06.22-15.55.21:460][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.06.22-15.55.21:460][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.06.22-15.55.21:460][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.22-15.55.21:461][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.06.22-15.55.21:461][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.22-15.55.21:461][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.22-15.55.21:461][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.06.22-15.55.21:492][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.22-15.55.21:492][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.22-15.55.21:492][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.22-15.55.21:536][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.22-15.55.21:538][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (E:/Games/Thor_Test 4.19/Thor_init/Intermediate/Shaders/WorkingDirectory/1328/).
+[2018.06.22-15.55.21:538][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ben/AppData/Local/Temp/UnrealShaderWorkingDir/446666914EACEF95D7F1E79E8FCD60DE/'.
+[2018.06.22-15.55.21:900][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.22-15.55.21:912][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.22-15.55.21:923][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.22-15.55.21:935][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.22-15.55.21:949][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.22-15.55.21:961][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.22-15.55.21:973][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.22-15.55.21:985][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.22-15.55.21:991][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.22-15.55.22:002][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.22-15.55.22:014][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.22-15.55.22:025][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.22-15.55.22:036][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.22-15.55.22:047][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.22-15.55.22:058][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.22-15.55.22:081][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.22-15.55.22:081][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.22-15.55.22:096][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.22-15.55.22:098][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.22-15.55.22:141][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.22-15.55.22:151][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.22-15.55.22:162][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.22-15.55.22:172][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.22-15.55.22:182][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.22-15.55.22:194][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.22-15.55.22:194][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.22-15.55.22:332][  0]LogXGEController: Cleaning working directory: C:/Users/Ben/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.22-15.55.22:332][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.22-15.55.22:332][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.22-15.55.22:332][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.22-15.55.23:436][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.22-15.55.23:623][  0]LogDerivedDataCache: Loaded boot cache 0.19s 74MB C:/Users/Ben/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.22-15.55.23:623][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ben/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.22-15.55.23:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Games/Thor_Test 4.19/Thor_init/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.22-15.55.23:623][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.22-15.55.23:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Games/Thor_Test 4.19/Thor_init/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.22-15.55.23:623][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.22-15.55.23:639][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.22-15.55.23:651][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ben/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.22-15.55.23:651][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.22-15.55.23:651][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.22-15.55.23:661][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.22-15.55.23:663][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.22-15.55.23:674][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.22-15.55.23:674][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.22-15.55.24:718][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.06.22-15.55.25:098][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.22-15.55.25:306][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.22-15.55.25:310][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.22-15.55.25:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.22-15.55.25:311][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.22-15.55.25:311][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.22-15.55.25:311][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.22-15.55.25:351][  0]LogNetVersion: Thor_Test , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1674736649)
+[2018.06.22-15.55.26:284][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.065380 seconds
+[2018.06.22-15.55.26:288][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.22-15.55.26:288][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.22-15.55.26:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.22-15.55.30:055][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.22-15.55.30:082][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.22-15.55.30:443][  0]SourceControl: Source control is disabled
+[2018.06.22-15.55.30:443][  0]SourceControl: Source control is disabled
+[2018.06.22-15.55.30:463][  0]SourceControl: Source control is disabled
+[2018.06.22-15.55.30:479][  0]SourceControl: Source control is disabled
+[2018.06.22-15.55.30:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.22-15.55.31:084][  0]LogOcInput: OculusInput pre-init called
+[2018.06.22-15.55.31:220][  0]LogEngine: Initializing Engine...
+[2018.06.22-15.55.31:223][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.22-15.55.31:225][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.22-15.55.31:226][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.22-15.55.31:571][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.22-15.55.31:602][  0]LogInit: XAudio2 using 'SPDIF Interface (FiiO USB DAC Q1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.22-15.55.31:611][  0]LogInit: FAudioDevice initialized.
+[2018.06.22-15.55.31:684][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Ben/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.22-15.55.31:695][  0]LogInit: Texture streaming: Enabled
+[2018.06.22-15.55.31:717][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.22-15.55.31:732][  0]LogInit: Transaction tracking system initialized
+[2018.06.22-15.55.31:806][  0]BlueprintLog: New page: Editor Load
+[2018.06.22-15.55.31:941][  0]LocalizationService: Localization service is disabled
+[2018.06.22-15.55.32:078][  0]LogConsoleResponse: Display: 
+[2018.06.22-15.55.32:369][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.22-15.55.32:369][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.22-15.55.32:369][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.22-15.55.32:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.22-15.55.32:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.22-15.55.32:792][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Thor_Test 4.19/Thor_init/Content/' took 0.02s
+[2018.06.22-15.55.32:792][  0]SourceControl: Source control is disabled
+[2018.06.22-15.55.32:794][  0]Cmd: MAP LOAD FILE="E:/Games/Thor_Test 4.19/Thor_init/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.22-15.55.32:815][  0]LightingResults: New page: Lighting Build
+[2018.06.22-15.55.32:821][  0]MapCheck: New page: Map Check
+[2018.06.22-15.55.32:821][  0]LightingResults: New page: Lighting Build
+[2018.06.22-15.55.32:989][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c23ee17900, Size=1584, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.22-15.55.32:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c23ee25d00, Size=200, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.22-15.55.33:182][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c23ee25d00, Size=200
+[2018.06.22-15.55.33:182][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c2488a2f60, Size=200, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.22-15.55.33:184][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c23ee17900, Size=1584
+[2018.06.22-15.55.33:184][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c2488a9600, Size=1584, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_5:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.22-15.55.33:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c262890fe0, Size=200, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.22-15.55.33:231][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c26278ab00, Size=1584, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.22-15.55.33:543][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [15.017412ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.22-15.55.33:760][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.22-15.55.33:781][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.22-15.55.33:793][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c2488a9600, Size=1584
+[2018.06.22-15.55.33:793][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c2488a2f60, Size=200
+[2018.06.22-15.55.33:794][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.22-15.55.33:848][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.437ms to complete.
+[2018.06.22-15.55.33:848][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.055
+[2018.06.22-15.55.34:014][  0]LogCollectionManager: Loaded 0 collections in 0.001201 seconds
+[2018.06.22-15.55.34:057][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Thor_Test 4.19/Thor_init/Saved/Collections/' took 0.01s
+[2018.06.22-15.55.34:057][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Thor_Test 4.19/Thor_init/Content/Developers/Ben/Collections/' took 0.01s
+[2018.06.22-15.55.34:057][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Thor_Test 4.19/Thor_init/Content/Collections/' took 0.01s
+[2018.06.22-15.55.34:057][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.22-15.55.34:066][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2452 classes and 558 folders.
+[2018.06.22-15.55.34:074][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.22-15.55.34:391][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.22-15.55.34:397][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.22-15.55.34:448][  0]LogSlate: Took 0.006136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.22-15.55.34:456][  0]LogSlate: Took 0.006164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.22-15.55.34:465][  0]LogSlate: Took 0.004455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.22-15.55.34:602][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.22-15.55.34:718][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.22-15.55.34:748][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.06.22-15.55.34:780][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.22-15.55.34:781][  0]LogLoad: (Engine Initialization) Total time: 19.13 seconds
+[2018.06.22-15.55.34:781][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.22-15.55.34:809][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.22-15.55.34:907][  2]LogAssetRegistry: Asset discovery search completed in 10.2116 seconds
+[2018.06.22-15.55.34:911][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.22-15.55.34:911][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.06.22-15.55.38:869][471]LogSlate: Took 0.005283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.22-15.55.40:571][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.22-15.55.51:698][972]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.22-15.55.53:350][972]LogTexture: Display: Building textures: T_GradientLaserSoft_M (AutoDXT, 1024X32)
+[2018.06.22-15.55.53:350][972]LogTexture: Display: Building textures: T_Cloud_Wisp_Chromatic_Tile (AutoDXT, 1024X1024)
+[2018.06.22-15.55.53:350][972]LogTexture: Display: Building textures: T_Perlin_Soft_Packed (AutoDXT, 2048X2048)
+[2018.06.22-15.55.53:350][972]LogTexture: Display: Building textures: T_FengMao_Poster_Tendrils_v2_Seamless (G8, 4096X4096)
+[2018.06.22-15.55.53:350][972]LogMaterial: Missing cached shader map for material M_SphereChromaWisps, compiling. 
+[2018.06.22-15.56.01:916][972]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.22-15.56.01:916][972]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.22-15.56.01:916][972]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.22-15.56.01:916][972]LogTexture: Display: Building textures: T_FengMao_V001_RockDetail_N (BC5, 2048X2048)
+[2018.06.22-15.56.01:916][972]LogTexture: Display: Building textures: T_RockTextureTile_000_D (AutoDXT, 4096X4096)
+[2018.06.22-15.56.01:916][972]LogTexture: Display: Building textures: T_TilingNoise03 (AutoDXT, 2048X2048)
+[2018.06.22-15.56.01:916][972]LogTexture: Display: Building textures: T_Pebbles_Stones_N (BC5, 2048X2048)
+[2018.06.22-15.56.01:916][972]LogTexture: Display: Building textures: T_Crunchy_1_D (AutoDXT, 2048X2048)
+[2018.06.22-15.56.01:916][972]LogMaterial: Missing cached shader map for material M_Debris_Rock_Fade, compiling. 
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.22-15.56.04:655][972]LogTexture: Display: Building textures: T_Dirt_01_A (AutoDXT, 4096X4096)
+[2018.06.22-15.56.04:655][972]LogTexture: Display: Building textures: T_Dirt_01_N (BC5, 4096X4096)
+[2018.06.22-15.56.04:655][972]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.22-15.56.04:655][972]LogMaterial: Missing cached shader map for material M_DirtTest, compiling. 
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.22-15.56.11:366][972]LogTexture: Display: Building textures: T_Dirt_02A_A (AutoDXT, 4096X4096)
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.22-15.56.11:366][972]LogTexture: Display: Building textures: T_Dirt_02A_N (BC5, 4096X4096)
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.22-15.56.11:366][972]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.22-15.56.11:366][972]LogTexture: Display: Building textures: T_AlpinePatch001_H (AutoDXT, 2048X2048)
+[2018.06.22-15.56.11:366][972]LogTexture: Display: Building textures: T_RockChunk_D (AutoDXT, 2048X2048)
+[2018.06.22-15.56.11:366][972]LogTexture: Display: Building textures: T_AlpinePatch001_D_alt_R (AutoDXT, 2048X2048)
+[2018.06.22-15.56.11:366][972]LogTexture: Display: Building textures: T_RockChunk_N (BC5, 2048X2048)
+[2018.06.22-15.56.11:366][972]LogMaterial: Missing cached shader map for material M_FengMao_Rocks, compiling. 
+[2018.06.22-15.56.11:621][972]LogMaterial: Missing cached shader map for material M_FengMao_Rocks, compiling. 
+[2018.06.22-15.56.11:678][972]LogMaterial: Missing cached shader map for material M_FengMao_Rocks, compiling. 
+[2018.06.22-15.56.11:727][972]LogMaterial: Missing cached shader map for material M_FengMao_Rocks, compiling. 
+[2018.06.22-15.56.11:779][972]LogShaderCompilers: Display: Shaders left to compile 351
+[2018.06.22-15.56.11:779][972]LogMaterial: Missing cached shader map for material M_FengMao_Rocks, compiling. 
+[2018.06.22-15.56.13:247][972]LogShaderCompilers: Display: Shaders left to compile 439
+[2018.06.22-15.56.13:247][972]LogTexture: Display: Building textures: T_Rock_Imposter_12x12_D (AutoDXT, 2048X2048)
+[2018.06.22-15.56.13:247][972]LogShaderCompilers: Display: Shaders left to compile 429
+[2018.06.22-15.56.13:247][972]LogTexture: Display: Building textures: T_Rock_Imposter_12x12_N (BC5, 2048X2048)
+[2018.06.22-15.56.13:247][972]LogTexture: Display: Building textures: T_PerlinElectric_Packed_Rchannel_N (BC5, 2048X2048)
+[2018.06.22-15.56.13:247][972]LogShaderCompilers: Display: Shaders left to compile 419
+[2018.06.22-15.56.13:247][972]LogMaterial: Missing cached shader map for material M_ImposterRock_Masked_MASTER, compiling. 
+[2018.06.22-15.56.13:473][972]LogTexture: Display: Building textures: T_Concrete_ChunkSubUV_N_TGA (BC5, 512X512)
+[2018.06.22-15.56.13:473][972]LogTexture: Display: Building textures: T_Concrete_ChunkSubUV_D (AutoDXT, 512X512)
+[2018.06.22-15.56.13:473][972]LogShaderCompilers: Display: Shaders left to compile 537
+[2018.06.22-15.56.13:473][972]LogShaderCompilers: Display: Shaders left to compile 527
+[2018.06.22-15.56.13:473][972]LogMaterial: Missing cached shader map for material M_Invis_Debris_ParticleColor, compiling. 
+[2018.06.22-15.56.14:549][972]LogShaderCompilers: Display: Shaders left to compile 636
+[2018.06.22-15.56.14:549][972]LogTexture: Display: Building textures: T_TilingNoise06 (BGRA8, 2048X2048)
+[2018.06.22-15.56.14:549][972]LogTexture: Display: Building textures: T_noise_flamy_Tile_NRM (BC5, 2048X2048)
+[2018.06.22-15.56.14:549][972]LogMaterial: Missing cached shader map for material M_MaskedDeath_Ash, compiling. 
+[2018.06.22-15.56.14:683][972]LogTexture: Display: Building textures: T_Concrete_ChunkSubUV_AO (AutoDXT, 512X512)
+[2018.06.22-15.56.14:683][972]LogMaterial: Missing cached shader map for material M_MaskedDebris_NoEmissive, compiling. 
+[2018.06.22-15.56.15:984][972]LogShaderCompilers: Display: Shaders left to compile 879
+[2018.06.22-15.56.15:984][972]LogTexture: Display: Building textures: T_FluidSmoke_04 (AutoDXT, 2048X2048)
+[2018.06.22-15.56.15:984][972]LogTexture: Display: Building textures: T_FluidSmoke_04_N (BC5, 2048X2048)
+[2018.06.22-15.56.15:984][972]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.06.22-15.56.15:984][972]LogShaderCompilers: Display: Shaders left to compile 859
+[2018.06.22-15.56.15:984][972]LogMaterial: Missing cached shader map for material M_Dust_Spears, compiling. 
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 964
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 954
+[2018.06.22-15.56.21:427][972]LogTexture: Display: Building textures: T_Plasma_Wisps (AutoDXT, 4096X4096)
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 944
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 934
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 924
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 914
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 904
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 894
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 884
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 874
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 864
+[2018.06.22-15.56.21:427][972]LogShaderCompilers: Display: Shaders left to compile 854
+[2018.06.22-15.56.21:427][972]LogMaterial: Missing cached shader map for material M_Plasma_TeamColor, compiling. 
+[2018.06.22-15.56.21:473][972]LogMaterial: Missing cached shader map for material M_Plasma_v5_Flipbook2, compiling. 
+[2018.06.22-15.57.45:538][972]LogShaderCompilers: Display: Shaders left to compile 898
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 888
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 878
+[2018.06.22-15.57.45:543][972]LogTexture: Display: Building textures: T_SoilMud2_H (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:543][972]LogTexture: Display: Building textures: T_SoilMud2_N (BC5, 4096X4096)
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 858
+[2018.06.22-15.57.45:543][972]LogTexture: Display: Building textures: T_SoilMud2_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 848
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 838
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 828
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 818
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 808
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 798
+[2018.06.22-15.57.45:543][972]LogShaderCompilers: Display: Shaders left to compile 788
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 778
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 768
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 758
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 748
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 738
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 728
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 718
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_StairsSeam_N (BC5, 512X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 708
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 698
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_StairsEnd_PM_D (DXT1, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Stairs_PM_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 688
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 678
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 668
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 658
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 648
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_StairsEnd_Black_PM_D (DXT1, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 638
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_StairsEnd_PM_M (DXT1, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_StairsEnd_PM_N (BC5, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 628
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Stairs_PM_Black_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 618
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Stairs_PM_White_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 608
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_StairsEnd_Whtie_PM_D (DXT1, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Stairs_PM_N (BC5, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Stairs_PM_M (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 598
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 588
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 578
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 568
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 558
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 548
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 538
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 528
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 518
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 508
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 498
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 488
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 478
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 468
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 458
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 448
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 438
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 428
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 418
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 408
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Chipped_D (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Chipped_Black_D (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 398
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Chipped_M (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Chipped_N (BC5, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 388
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 378
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Damaged_D (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Damaged_Black_D (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 368
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Damaged_N (BC5, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_Damaged_M (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 358
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 348
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 338
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_worn_M (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_worn_Black_D (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 328
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 318
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_worn_N (BC5, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Marble_worn_D (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogShaderCompilers: Display: Shaders left to compile 308
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Metal_Patina_M (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:544][972]LogTexture: Display: Building textures: T_Metal_Patina_N (BC5, 2048X2048)
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 298
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 288
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_Metal_Patina_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 278
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 268
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 258
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 248
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 238
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_Mossrocks_Moss_02_D2 (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_MossMask_N (BC5, 2048X2048)
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_LandscapeMoss_M (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_LandscapeMoss_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.22-15.57.45:545][972]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_GDC_StonePath_Tile_M (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_TilingMoss_Clovers-n-Flowers_01_D (AutoDXT, 4096X4096)
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_Artifacts_Static_Pillar_B_M2 (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_Artifacts_Static_Pillar_A_N (BC5, 2048X2048)
+[2018.06.22-15.57.45:545][972]LogTexture: Display: Building textures: T_Floor_Mask (AutoDXT, 2048X2048)
+[2018.06.22-15.57.45:545][972]LogMaterial: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2018.06.22-15.57.45:657][972]LogMaterial: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2018.06.22-15.57.45:732][972]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.06.22-15.57.45:732][972]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.06.22-15.57.45:732][972]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.06.22-15.57.45:733][972]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.06.22-15.57.45:733][972]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.06.22-15.57.45:733][972]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.06.22-15.57.45:733][972]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.06.22-15.57.45:733][972]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.06.22-15.57.45:733][972]LogMaterial: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2018.06.22-15.57.45:865][972]LogMaterial: Missing cached shader map for material M_TargetMaterial_Master, compiling. 
+[2018.06.22-15.57.47:098][972]LogTexture: Display: Building textures: T_Tiling_Dust (AutoDXT, 1024X1024)
+[2018.06.22-15.57.47:098][972]LogTexture: Display: Building textures: T_ImpactDust_01 (AutoDXT, 2048X2048)
+[2018.06.22-15.57.47:098][972]LogMaterial: Missing cached shader map for material M_PoisonDust_SubUV, compiling. 
+[2018.06.22-15.57.47:713][972]LogTexture: Display: Building textures: T_WaveDisplaced_N (BC5, 256X256)
+[2018.06.22-15.57.47:713][972]LogTexture: Display: Building textures: T_Beam_Gradient_02 (AutoDXT, 32X1024)
+[2018.06.22-15.57.47:713][972]LogTexture: Display: Building textures: T_NoiseBubbly_Large (AutoDXT, 1024X1024)
+[2018.06.22-15.57.47:713][972]LogTexture: Display: Building textures: T_WaterTile_Blur_Packed (AutoDXT, 1024X1024)
+[2018.06.22-15.57.47:713][972]LogMaterial: Missing cached shader map for material M_WaterRipple_Mesh_Foam, compiling. 
+[2018.06.22-15.57.47:797][972]LogMaterial: Missing cached shader map for material M_Embers, compiling. 
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_Trail_Mask (AutoDXT, 512X512)
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_SmokeTile (AutoDXT, 512X512)
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_gradient_healed (AutoDXT, 256X256)
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_Soft_Noise (AutoDXT, 1024X1024)
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_SmokeRend_N (BC5, 512X512)
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_Plasma_FengMao_Seamless (AutoDXT, 1024X1024)
+[2018.06.22-15.57.48:642][972]LogTexture: Display: Building textures: T_ShieldLightrays (AutoDXT, 1024X512)
+[2018.06.22-15.57.48:642][972]LogMaterial: Missing cached shader map for material M_FengMao_Block_Smoke, compiling. 
+[2018.06.22-15.57.49:533][972]LogShaderCompilers: Display: Shaders left to compile 865
+[2018.06.22-15.57.49:533][972]LogTexture: Display: Building textures: T_noise_flamy_Tile (AutoDXT, 2048X2048)
+[2018.06.22-15.57.49:533][972]LogShaderCompilers: Display: Shaders left to compile 930
+[2018.06.22-15.57.49:533][972]LogShaderCompilers: Display: Shaders left to compile 920
+[2018.06.22-15.57.49:533][972]LogShaderCompilers: Display: Shaders left to compile 910
+[2018.06.22-15.57.49:533][972]LogShaderCompilers: Display: Shaders left to compile 900
+[2018.06.22-15.57.49:533][972]LogMaterial: Missing cached shader map for material M_FengMao_MagicBlade, compiling. 
+[2018.06.22-15.57.49:565][972]LogMaterial: Missing cached shader map for material M_FengMao_Shield_Mesh, compiling. 
+[2018.06.22-15.57.49:832][972]LogTexture: Display: Building textures: T_Clouds_01 (AutoDXT, 1024X1024)
+[2018.06.22-15.57.49:832][972]LogMaterial: Missing cached shader map for material M_FengMao_Shield_Ring, compiling. 
+[2018.06.22-15.57.50:009][972]LogTexture: Display: Building textures: T_Flare_Spikeball (AutoDXT, 1024X1024)
+[2018.06.22-15.57.50:010][972]LogMaterial: Missing cached shader map for material M_CleanseFlare, compiling. 
+[2018.06.22-15.57.50:041][972]LogMaterial: Missing cached shader map for material M_CleanseFlare, compiling. 
+[2018.06.22-15.57.50:319][972]LogTexture: Display: Building textures: T_Flare_Vert_Packed (AutoDXT, 1024X1024)
+[2018.06.22-15.57.50:320][972]LogMaterial: Missing cached shader map for material M_Cone_Flare_Master, compiling. 
+[2018.06.22-15.57.51:244][972]LogTexture: Display: Building textures: T_TilingNoise02 (AutoDXT, 2048X2048)
+[2018.06.22-15.57.51:244][972]LogShaderCompilers: Display: Shaders left to compile 1074
+[2018.06.22-15.57.51:244][972]LogShaderCompilers: Display: Shaders left to compile 1064
+[2018.06.22-15.57.51:244][972]LogMaterial: Missing cached shader map for material M_FengMao_Vert_Flare, compiling. 
+[2018.06.22-15.57.51:287][972]LogMaterial: Missing cached shader map for material M_FengMao_Weapon_Glow, compiling. 
+[2018.06.22-15.57.51:501][972]LogTexture: Display: Building textures: T_Dmg_Splatter_01 (BC5, 1024X1024)
+[2018.06.22-15.57.51:501][972]LogTexture: Display: Building textures: T_FlareWide_04 (AutoDXT, 512X512)
+[2018.06.22-15.57.51:501][972]LogMaterial: Missing cached shader map for material M_Proto_Basic_1Texture, compiling. 
+[2018.06.22-15.57.51:746][972]LogShaderCompilers: Display: Shaders left to compile 1143
+[2018.06.22-15.57.51:746][972]LogTexture: Display: Building textures: TX_Pieces_Of_Fire (AutoDXT, 1024X1024)
+[2018.06.22-15.57.51:746][972]LogMaterial: Missing cached shader map for material M_Grux_Magma_Flare_impact, compiling. 
+[2018.06.22-15.57.51:780][972]LogMaterial: Missing cached shader map for material M_Lensflare_TB_Soft, compiling. 
+[2018.06.22-15.57.51:808][972]LogMaterial: Missing cached shader map for material M_Lensflare_TB_SoftGlow, compiling. 
+[2018.06.22-15.57.52:049][972]LogTexture: Display: Building textures: T_Turbulence_Seamless (AutoDXT, 1024X1024)
+[2018.06.22-15.57.52:050][972]LogMaterial: Missing cached shader map for material M_PH_Orb_FlatFlareEdge, compiling. 
+[2018.06.22-15.57.52:754][972]LogShaderCompilers: Display: Shaders left to compile 1265
+[2018.06.22-15.57.52:754][972]LogShaderCompilers: Display: Shaders left to compile 1255
+[2018.06.22-15.57.52:754][972]LogTexture: Display: Building textures: T_Portal_Gradient_M (AutoDXT, 64X2048)
+[2018.06.22-15.57.52:754][972]LogTexture: Display: Building textures: T_Inky_Smoke_Tile (AutoDXT, 1024X1024)
+[2018.06.22-15.57.52:754][972]LogTexture: Display: Building textures: T_EnergyPlasma_Tile_H_01 (AutoDXT, 2048X1024)
+[2018.06.22-15.57.52:754][972]LogMaterial: Missing cached shader map for material M_Portal_Open_Burst, compiling. 
+[2018.06.22-15.57.52:925][972]LogTexture: Display: Building textures: T_redspiky (AutoDXT, 1024X512)
+[2018.06.22-15.57.52:925][972]LogMaterial: Missing cached shader map for material M_Proto_Basic_1Texture_RGBChannel_Alpha, compiling. 
+[2018.06.22-15.57.52:957][972]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2018.06.22-15.57.53:074][972]LogTexture: Display: Building textures: T_energyflux (AutoDXT, 512X128)
+[2018.06.22-15.57.53:074][972]LogTexture: Display: Building textures: T_Ring (AutoDXT, 512X512)
+[2018.06.22-15.57.53:074][972]LogMaterial: Missing cached shader map for material M_Ring, compiling. 
+[2018.06.22-15.57.53:164][972]LogTexture: Display: Building textures: T_Lensflare_02 (AutoDXT, 512X512)
+[2018.06.22-15.57.53:164][972]LogMaterial: Missing cached shader map for material M_StunFlash, compiling. 
+[2018.06.22-15.57.53:197][972]LogMaterial: Missing cached shader map for material M_SuperSoft_Glow_LDR, compiling. 
+[2018.06.22-15.57.53:227][972]LogMaterial: Missing cached shader map for material M_Tri_Test, compiling. 
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1642
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_TilingBone_HighContrast (AutoDXT, 1024X1024)
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1632
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1622
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_TilingBone (AutoDXT, 1024X1024)
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1612
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_Noise_Rough_Dark_Big (AutoDXT, 1024X1024)
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_ScratchMask (AutoDXT, 1024X1024)
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_Gray_Flat_Black (AutoDXT, 2048X2048)
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1602
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_Metal_SandCast_Med_N (BC5, 2048X2048)
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1592
+[2018.06.22-15.57.58:767][972]LogTexture: Display: Building textures: T_ML_CleanPlastic01 (AutoDXT, 2048X2048)
+[2018.06.22-15.57.58:767][972]LogShaderCompilers: Display: Shaders left to compile 1582
+[2018.06.22-15.57.58:768][972]LogShaderCompilers: Display: Shaders left to compile 1572
+[2018.06.22-15.57.58:768][972]LogShaderCompilers: Display: Shaders left to compile 1562
+[2018.06.22-15.57.58:768][972]LogShaderCompilers: Display: Shaders left to compile 1552
+[2018.06.22-15.57.58:768][972]LogShaderCompilers: Display: Shaders left to compile 1542
+[2018.06.22-15.57.58:768][972]LogTexture: Display: Building textures: T_RoughMetal01 (AutoDXT, 2048X2048)
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1532
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1522
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1512
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1502
+[2018.06.22-15.58.05:913][972]LogTexture: Display: Building textures: T_ML_Gold_Metal01 (AutoDXT, 2048X2048)
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1492
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1482
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1472
+[2018.06.22-15.58.05:913][972]LogTexture: Display: Building textures: T_Whool01_D2 (AutoDXT, 2048X2048)
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1462
+[2018.06.22-15.58.05:913][972]LogShaderCompilers: Display: Shaders left to compile 1452
+[2018.06.22-15.58.05:914][972]LogShaderCompilers: Display: Shaders left to compile 1442
+[2018.06.22-15.58.05:914][972]LogTexture: Display: Building textures: T_Whool01_N (BC5, 2048X2048)
+[2018.06.22-15.58.05:914][972]LogShaderCompilers: Display: Shaders left to compile 1432
+[2018.06.22-15.58.05:914][972]LogShaderCompilers: Display: Shaders left to compile 1422
+[2018.06.22-15.58.05:914][972]LogTexture: Display: Building textures: T_Wood01_D (AutoDXT, 1024X1024)
+[2018.06.22-15.58.05:914][972]LogMaterial: Missing cached shader map for material M_FengMao_BladeFX, compiling. 
+[2018.06.22-15.58.06:007][972]LogMaterial: Missing cached shader map for material M_FengMao_BladeFX_v2, compiling. 
+[2018.06.22-15.58.12:542][972]LogTexture: Display: Building textures: T_FengMao_BoneCollector_Weapon_occlusion_Demo (AutoDXT, 4096X4096)
+[2018.06.22-15.58.12:542][972]LogShaderCompilers: Display: Shaders left to compile 1742
+[2018.06.22-15.58.12:542][972]LogTexture: Display: Building textures: T_Feng_BoneCollector_Head_occlusion_Demo (AutoDXT, 4096X4096)
+[2018.06.22-15.58.12:542][972]LogShaderCompilers: Display: Shaders left to compile 1732
+[2018.06.22-15.58.12:542][972]LogTexture: Display: Building textures: T_Feng_BoneCollector_Head_normal_Demo (BC5, 4096X4096)
+[2018.06.22-15.58.12:542][972]LogShaderCompilers: Display: Shaders left to compile 1722
+[2018.06.22-15.58.12:542][972]LogShaderCompilers: Display: Shaders left to compile 1712
+[2018.06.22-15.58.12:543][972]LogTexture: Display: Building textures: T_FengMao_BoneCollector_Weapon_normal_Demo (BC5, 4096X4096)
+[2018.06.22-15.58.12:543][972]LogTexture: Display: Building textures: T_FengMao_Undertow_Anchor (BC5, 4096X4096)
+[2018.06.22-15.58.12:543][972]LogShaderCompilers: Display: Shaders left to compile 1702
+[2018.06.22-15.58.12:543][972]LogShaderCompilers: Display: Shaders left to compile 1692
+[2018.06.22-15.58.12:543][972]LogShaderCompilers: Display: Shaders left to compile 1682
+[2018.06.22-15.58.12:543][972]LogShaderCompilers: Display: Shaders left to compile 1672
+[2018.06.22-15.58.12:543][972]LogMaterial: Missing cached shader map for material M_FengMao_BoneCollector_Weapon, compiling. 
+[2018.06.22-15.58.12:823][972]LogMaterial: Missing cached shader map for material M_FengMao_BoneCollector_Weapon, compiling. 
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1836
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1826
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1816
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1806
+[2018.06.22-15.58.33:546][972]LogTexture: Display: Building textures: T_Feng_BoneCollector_Legs_normal_Demo (BC5, 4096X4096)
+[2018.06.22-15.58.33:546][972]LogTexture: Display: Building textures: T_Feng_BoneCollector_Legs_occlusion_Demo (AutoDXT, 4096X4096)
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1796
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1786
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1776
+[2018.06.22-15.58.33:546][972]LogShaderCompilers: Display: Shaders left to compile 1766
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1756
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1746
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1736
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1726
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1716
+[2018.06.22-15.58.33:547][972]LogTexture: Display: Building textures: T_FengMao_BoneCollector_Torso_occlusion_Demo (AutoDXT, 4096X4096)
+[2018.06.22-15.58.33:547][972]LogTexture: Display: Building textures: T_FengMao_BoneCollector_Torso_normal_Demo (BC5, 4096X4096)
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1706
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1696
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1686
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1676
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1666
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1656
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1646
+[2018.06.22-15.58.33:547][972]LogTexture: Display: Building textures: T_Undertow_Anchor_MASK (AutoDXT, 4096X4096)
+[2018.06.22-15.58.33:547][972]LogTexture: Display: Building textures: T_Undertow_Anchor_RGB (AutoDXT, 4096X4096)
+[2018.06.22-15.58.33:547][972]LogTexture: Display: Building textures: T_Undertow_Legs_RGB (AutoDXT, 4096X4096)
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1636
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1626
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1616
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1606
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1596
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1586
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1576
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1566
+[2018.06.22-15.58.33:547][972]LogShaderCompilers: Display: Shaders left to compile 1556
+[2018.06.22-15.58.33:547][972]LogMaterial: Missing cached shader map for material M_FengMao_Undertow_Anchor, compiling. 
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1715
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1705
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1695
+[2018.06.22-15.58.38:164][972]LogTexture: Display: Building textures: T_RoyalGuardUndertow_Occlusion_Demo (AutoDXT, 4096X4096)
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1685
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1675
+[2018.06.22-15.58.38:164][972]LogTexture: Display: Building textures: T_RoyalGuardUndertow_Normal_Demo (BC5, 4096X4096)
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1665
+[2018.06.22-15.58.38:164][972]LogShaderCompilers: Display: Shaders left to compile 1655
+[2018.06.22-15.58.38:164][972]LogMaterial: Missing cached shader map for material M_FengMao_Undertow_ULT_Seaweed, compiling. 
+[2018.06.22-15.58.38:200][972]LogMaterial: Missing cached shader map for material M_FengMao_Undertow_ULT_Seaweed, compiling. 
